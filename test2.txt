@@ -1,4 +1,9 @@
 jenkins 
+<<<<<<< Updated upstream
 user adds
 add jobs
 assign jobs to users
+=======
+matrix based 
+project matix based 
+>>>>>>> Stashed changes
