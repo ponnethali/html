@@ -18,7 +18,7 @@ pipeline {
      
     stage('Build') {
       steps {
-        sh 'cd /html/'
+        sh 'cd html/'
         sh "chmod +x -R ${env.WORKSPACE}"
         sh 'docker build -t aliponneth/flaskapp:latest .'
         //sh './jenkins/build.sh'
