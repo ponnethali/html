@@ -33,6 +33,7 @@ pipeline {
     }
     stage('Push') {
       steps {
+        echo 'The pipeline running'
         //sh 'docker push aliponneth/app:latest'
         //sh './jenkins/push.sh'
       }
