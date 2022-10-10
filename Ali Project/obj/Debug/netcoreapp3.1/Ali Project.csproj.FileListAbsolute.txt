@@ -1,0 +1,26 @@
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\Ali Project.exe
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\Ali Project.deps.json
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\Ali Project.runtimeconfig.json
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\Ali Project.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\Ali Project.dll
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\Ali Project.pdb
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali_Project.Form1.resources
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali Project.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali Project.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali Project.AssemblyInfo.cs
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali Project.dll
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali Project.pdb
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali Project.genruntimeconfig.cache
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali_Project.Form2.resources
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali_Project.Form3.resources
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Ali Project\Ali Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali Project.csproj.CopyComplete
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali Project.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Ali Project\Ali Project\obj\Debug\netcoreapp3.1\Ali_Project.Form4.resources

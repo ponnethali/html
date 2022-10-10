@@ -3,4 +3,4 @@ user adds
 add jobs
 assign jobs to users
 matrix based 
-project matix based 
+project matix based
