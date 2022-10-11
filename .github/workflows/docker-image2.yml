@@ -13,9 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
-    - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag aliponneth:flaskdemo
+    #- uses: actions/checkout@v3
+    #- name: Build the Docker image
+    #  run: docker build . --file Dockerfile --tag aliponneth:flaskdemo
       
     uses: mr-smithers-excellent/docker-build-push@v5
     with:
