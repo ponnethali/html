@@ -19,8 +19,8 @@ jobs:
       name: Build & push Docker image
       with:
         image: aliponneth/flaskapi-demo
-        tags: v1, latest
-        registry: registry-url.io
-        dockerfile: Dockerfile.ci
+        #tags: v1, latest
+        registry: docker.io
+        #dockerfile: Dockerfile.ci
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
