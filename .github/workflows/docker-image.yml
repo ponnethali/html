@@ -12,6 +12,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    name: build and push docker image
     steps:
     uses: mr-smithers-excellent/docker-build-push@v5
     with:
