@@ -15,7 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      #run: docker build . --file Dockerfile --tag aliponneth/flaskdemo:v1
+      run: docker build . --file Dockerfile --tag aliponneth/flaskdemo:v1
       #run: docker build -t container_tag --build-arg MYAPP_IMAGE=aliponneth/flask-api-demo .
       
     - name: Build and Push Docker Image
