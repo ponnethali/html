@@ -1,4 +1,4 @@
-ARG MYAPP_IMAGE=aliponneth/flask-api-demo
+ARG MYAPP_IMAGE=aliponneth/flask-api-demo:main-a465c8c
 FROM $MYAPP_IMAGE
 
 FROM python:3.7.4-alpine3.10
