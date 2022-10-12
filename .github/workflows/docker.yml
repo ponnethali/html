@@ -15,7 +15,8 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag aliponneth/flaskdemo:v1
+      #run: docker build . --file Dockerfile --tag aliponneth/flaskdemo:v1
+      run: docker build -t container_tag --build-arg MYAPP_IMAGE=localimage:latest .
       
     - name: Build and Push Docker Image
       uses: mr-smithers-excellent/docker-build-push@v4
